@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey, I'm Vatsal 👋
+# Hey, I'm Vatsal Raina👋
 
 **Full-Stack Engineer · AI Systems Builder · Published Researcher**
 
